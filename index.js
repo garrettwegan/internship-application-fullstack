@@ -6,7 +6,7 @@ const serverErrorBody = '<h1 style=\"text-align: center;\">Oops, something went 
 const apiEndpoint = 'https://cfw-takehome.developers.workers.dev/api/variants';
 const jsonVariantsKey = 'variants';
 const newMainTitle = 'Recursion';
-const newDescription = 'A simple concept which can go explored to a considerable depth.';
+const newDescription = 'A simple concept which can be explored to a considerable depth.';
 const newLinkDescription = 'Dig deeper';
 const newLink = '/';
 const cookieName = 'persistUrl';
